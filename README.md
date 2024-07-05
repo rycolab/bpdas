@@ -2,7 +2,7 @@
 
 Code accompanying the ACL 2024 publication "On Efficiently Representing Regular Languages as RNNs".
 
-Getting started with the code
+### Getting started with the code
 Clone the repository:
 ```bash
 $ git clone git@github.com:rycolab/bpdas.git
